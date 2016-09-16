@@ -7,5 +7,7 @@ _________
 - the staging area should only hold one file with a logical change when committing
 - moreover, you should use the git diff command to check whether you need further commits
 - furthermore, use git diff --staged to check that exactly the logical change is committed that you want
-
+_________
+- branches are usefull for experimental changes or different versions
+- branches keep everything nicely ordered
 
