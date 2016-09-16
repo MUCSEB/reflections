@@ -1,0 +1,20 @@
+- It helps to see bugs, typos and changes much easier
+- However, large files will be difficult so check for + and - signs
+___________
+- The entire history would allow me to go back to any privous version saved
+- It would be nice to do this in an automated way and not the primitive way by clicking save as all the time
+__________
+- pros: you choose the right size of commits, manually add additional commit discriptions
+- cons: you can forget it, you can be too lazy, commits can get big
+___________
+- git tracks programming code form different files -> repositories
+- Google Docs saves docs which are probably very unrelated and therefore committed seperately 
+___________
+- git log loggs all commits with ID and short descriptions
+- git diff <commit1> <commit2> compares the commits and lists the changes
+- don't forget to switch on colour feature
+___________
+- git would allow me to do even tricky changes as you can always go back
+- addtionally, you can track the changes easily
+___________
+- I would like to get really into the detaills how to use it for coding 
