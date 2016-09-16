@@ -3,4 +3,9 @@
 _________
 - the staging area lets you choose which files from the working directory you want to commit
 - it serves as a collection bucket
+_________
+- the staging area should only hold one file with a logical change when committing
+- moreover, you should use the git diff command to check whether you need further commits
+- furthermore, use git diff --staged to check that exactly the logical change is committed that you want
+
 
