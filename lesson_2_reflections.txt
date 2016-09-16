@@ -1,0 +1,6 @@
+- With git init a new repository gets created with master, whatever it means...
+- git status allows me to see that only the repository has been built, but the files are not added yet
+_________
+- the staging area lets you choose which files from the working directory you want to commit
+- it serves as a collection bucket
+
