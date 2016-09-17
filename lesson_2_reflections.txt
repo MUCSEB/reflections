@@ -10,4 +10,7 @@ _________
 _________
 - branches are usefull for experimental changes or different versions
 - branches keep everything nicely ordered
+_________
+- diagrams make it much easier to see the different branches und also consider detached heads
+
 
