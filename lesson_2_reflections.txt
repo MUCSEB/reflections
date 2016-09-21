@@ -12,5 +12,11 @@ _________
 - branches keep everything nicely ordered
 _________
 - diagrams make it much easier to see the different branches und also consider detached heads
+_________
+- automatic mergings are great, but I had a lot of trouble with some conflicts
+__________
+- automatic merging can help you in some situations
+- however, sometimes you have merge conflicts and you need to solve them manually
+
 
 
